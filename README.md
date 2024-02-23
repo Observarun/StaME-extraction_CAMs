@@ -12,3 +12,11 @@ Hierarchical agglomerative algorithms implement bottom-up clustering methodology
 * data-preparation_barn-owl.R: Preprocessing of the multi-DAR time-series data from a barn owl individual to get it ready to perform segmentation and clustering.
 * data-preparation_ANIMOVER1.R: Preprocessing of the synthetic time-series data obtained from the Numerus ANIMOVER_1 simulator to bring it in a shape so as to perform segmentation and clustering.
 * segment-cluster-visualise.R: Segmentation of the time-series data to construct a representation, carrying out clustering procedure on it, and visualisation of result.
+
+## Results
+
+![ClustersOwl](https://github.com/Observarun/StaME-extraction_CAMs/assets/83636458/eb8c67a1-90ba-4407-8e61-866430789d92)
+*CAM types obtained by clustering StaMEs from the tracks of two different barn owls.*
+
+![ClustersSim](https://github.com/Observarun/StaME-extraction_CAMs/assets/83636458/dfb5fef1-2af4-401e-b99d-c779e61516e7)
+*Clustering results from 10-point and 30-point segmentation of the simulation data.*
